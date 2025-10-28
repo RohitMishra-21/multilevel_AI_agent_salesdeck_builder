@@ -29,6 +29,10 @@ This project uses Crew AI to generate sales decks. It leverages a team of AI age
 
 3. **Set Environment Variables:**
    - Create a `.env` file in the root of the project.
+   - Add your Open AI api key
+     ```
+     OPEN_AI_API="YOUR_OPEN_API_KEY"
+     ```
    - Add your Serper API key to the `.env` file in the following format:
      ```
      SERPER_API_KEY="YOUR_SERPER_API_KEY"
