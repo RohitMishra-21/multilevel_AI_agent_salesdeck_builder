@@ -1,0 +1,5 @@
+crewai[tools]
+ollama
+python-dotenv
+chromadb
+langchain-ollama
